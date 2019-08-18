@@ -30,7 +30,7 @@ def get_one_page(page):
 
 def parse_one_page(json_content):
     """从一页微博内容中解析出 id, 正文, 点赞数, 评论"""
-    if json:
+    if json_content:
         items = json_content.get('data').get('cards')
         for item in items:
             item = item.get('mblog')
@@ -48,8 +48,7 @@ def main(page):
     results = parse_one_page(json_content)
 
     for result in results:
-        with open('results.txt', 'a', encoding
-        'utf8') as f:
+        with open('results.txt', 'a', encoding='utf8') as f:
             f.write(json.dumps(result, ensure_ascii=False) + '\n')
 
 
