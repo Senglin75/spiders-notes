@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd6dc6f2-b248-4578-b24a-ce607a7f724f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/10-爬虫.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/10-爬虫.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/01-分析Ajax爬取微博用户10页内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/01-分析Ajax爬取微博用户10页内容.py" afterDir="false" />
-    </list>
+    <list default="true" id="bd6dc6f2-b248-4578-b24a-ce607a7f724f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +12,7 @@
     <SUITE FILE_PATH="coverage/09_$01__.coverage" NAME="01-爬取知乎发现-热门话题 Coverage Results" MODIFIED="1565973400760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-爬取知乎发现-热门话题" />
     <SUITE FILE_PATH="coverage/09_$01_Ajax10.coverage" NAME="01-分析Ajax爬取微博用户10页内容 Coverage Results" MODIFIED="1566057032579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图" />
     <SUITE FILE_PATH="coverage/09_$get_maoyan_TOP100_board.coverage" NAME="get_maoyan_TOP100_board Coverage Results" MODIFIED="1565966834532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-爬取猫眼TOP100榜单" />
-    <SUITE FILE_PATH="coverage/09_$02_.coverage" NAME="02-爬取今日头条街拍美图 Coverage Results" MODIFIED="1566144496498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图" />
+    <SUITE FILE_PATH="coverage/09_$02_.coverage" NAME="02-爬取今日头条街拍美图 Coverage Results" MODIFIED="1566144829988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图" />
     <SUITE FILE_PATH="coverage/09_$02__.coverage" NAME="02-爬取知乎发现-热门话题 Coverage Results" MODIFIED="1565964827873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$copy_test.coverage" NAME="copy_test Coverage Results" MODIFIED="1566144068036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图" />
   </component>
@@ -25,7 +20,7 @@
     <session id="-1486257690">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -39,7 +34,7 @@
           <entry key="html" value="1" />
           <entry key="jpg" value="30" />
           <entry key="py" value="25" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="6" />
           <entry key="总结" value="1" />
         </counts>
       </usages-collector>
@@ -47,7 +42,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Image" value="30" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="Python" value="25" />
         </counts>
       </usages-collector>
@@ -55,7 +50,7 @@
         <counts>
           <entry key="dummy" value="10" />
           <entry key="html" value="2576" />
-          <entry key="py" value="40202" />
+          <entry key="py" value="40958" />
           <entry key="txt" value="140" />
         </counts>
       </usages-collector>
@@ -63,22 +58,31 @@
         <counts>
           <entry key="HTML" value="2576" />
           <entry key="PLAIN_TEXT" value="150" />
-          <entry key="Python" value="40202" />
+          <entry key="Python" value="40958" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/02-爬取今日头条街拍美图.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <marker date="1566144496482" expanded="true" signature="3743:3893" ph="..." />
+                <marker date="1566144829830" expanded="true" signature="3474:3623" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/results.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="59" column="84" selection-start-line="59" selection-start-column="84" selection-end-line="59" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -88,36 +92,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-765">
               <caret line="334" column="8" selection-start-line="334" selection-start-column="8" selection-end-line="334" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/copy_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/script/lib/python3.5/ntpath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/script/lib/python3.5/os.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="215" column="4" selection-start-line="215" selection-start-column="4" selection-end-line="215" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -201,12 +175,6 @@
               <item name="09-爬虫" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="03-分析Ajax爬取今日头条街拍美图" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="09-爬虫" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="03-分析Ajax爬取今日头条街拍美图" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -385,14 +353,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="64" y="-11" width="1217" height="972" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24488668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37895638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28974897" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28974897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44617224" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,7 +370,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31066945" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.8062201" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -489,20 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/results.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="59" column="84" selection-start-line="59" selection-start-column="84" selection-end-line="59" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-爬取知乎发现-热门话题/01-爬取知乎发现-热门话题.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -569,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/script/lib/python3.5/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/image/#迪丽热巴#迪丽热巴街拍写真似公主 长发红唇高贵十足/28d96407ebdd5dd7732c1aed79c5a02c.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -626,11 +574,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/copy_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="1033">
           <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/script/lib/python3.5/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -643,12 +605,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/02-爬取今日头条街拍美图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+        <state relative-caret-position="180">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <marker date="1566144496482" expanded="true" signature="3743:3893" ph="..." />
+            <marker date="1566144829830" expanded="true" signature="3474:3623" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-分析Ajax爬取今日头条街拍美图/results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="59" column="84" selection-start-line="59" selection-start-column="84" selection-end-line="59" selection-end-column="84" />
         </state>
       </provider>
     </entry>
